@@ -1,1 +1,6 @@
 i am learning devops
+
+
+1st Step :
+
+learning GIT
